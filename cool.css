@@ -1,0 +1,34 @@
+#misskey_app > div > div.xFdHz, #misskey_app > div > div.xFdHz > div:nth-child(2) > main > div:nth-child(1) > div > div:nth-child(1) > div, #misskey_app > div > div.mvcprjjd.iconOnly.xhesn > div *, .adhpbeos>.input>textarea[data-v-09e8f431], .xzYGK, .xsN7f, .xeHoU, #misskey_app > div > div.mvcprjjd.xhesn > div > div.top > div, .xzSZs.xwehs>.xqbRq, #misskey_app > div > div.xFdHz > div:nth-child(2) > main > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div:nth-child(4) > div > div > div > div.sub, #misskey_app > div > div.xFdHz > div:nth-child(2) > main > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div:nth-child(1) > div > div > div.selects > div:nth-child(1) > div.xlc7p > select, #misskey_app > div > div.xFdHz > div:nth-child(2) > main > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div:nth-child(1) > header, #misskey_app > div > div.xFdHz > div:nth-child(2) > main > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div > div:nth-child(2) > div.xzSZs > div > div, #misskey_app > div > div.xFdHz > div:nth-child(2) > main > div:nth-child(1) > div > div:nth-child(2) > div > div > div > div > div > div > header {
+    background-color: transparent !important;
+    background-image: none !important;
+}
+
+#misskey_app > div > div.mvcprjjd.xhesn > div > div.top, .mvcprjjd:not(.iconOnly)>.body>.bottom[data-v-9f106932] {
+    background: none !important;
+    -webkit-backdrop-filter: none !important;
+    backdrop-filter: none !important;
+}
+
+#misskey_app > div > div.xFdHz > div:nth-child(1) {
+    display: none;
+}
+textarea {
+    border-color: var(--inputBorderHover) !important;
+}
+
+.x3kc0.xyYHu , ._panel, .mvcprjjd>.body[data-v-9f106932], .xjptQ, .xzSZs:not(.xwehs)>.xqbRq {
+    background: rgb(255 255 255 / 12%) !important;
+}
+
+._popup {
+    background: rgb(74 74 74 / 70%) !important;
+}
+
+.xbaFh.x2hCn {
+    background: var(--accent) !important;
+}
+
+.rrevdjwu>.group>.items>.item:hover {
+    color: var(--accent);
+    background: rgb(255 255 255 / 12%) !important;
+}
